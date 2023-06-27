@@ -1,0 +1,11 @@
+﻿index,subject,form,no_of_class,date,start_time,end_time,duration
+1,Eng Writing,3,4,8-Jun,8:30,9:30,60
+2,Chin Writing,1,4,8-Jun,8:30,9:45,75
+3,Chin Writing,2,5,8-Jun,8:30,9:45,75
+4,C&S,4,4,8-Jun,8:30,10:00,90
+5,Eng Listening,5,3,8-Jun,8:30,10:40,130
+6,Chem,3,4,8-Jun,10:15,11:15,60
+7,Hist I,4,1,8-Jun,10:45,12:15,60
+8,BAFS,4,1,8-Jun,10:45,13:00,135
+9,Chin Writing,5,3,8-Jun,11:30,13:45,135
+10,Hist II,4,1,8-Jun,13:30,14:15,45
